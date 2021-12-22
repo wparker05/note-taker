@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation)
-- [Usage](#Usage)
+- [Visual](#Visual)
 - [Link](#Link)
 
 
@@ -16,20 +16,10 @@ The Note Taker is a program allows users to make notes and save them. The code w
 ## Installation
 
 1. Install node.js to your computer
-2. In your code editor terminal type npm install init -y
-3. In your code editor terminal type npm install express
-4. In your code editor terminal type npm install uuid
+2. In your code editor terminal type npm install 
 
-
-
-## Usage
-
-1. Open your code editor terminal
-2. Make sure your pathway in terminal is to the root folder for project
-3. In terminal type npm install
-4. In terminal type npm start 
-
-
+## Visual
+![Homepage-Picture](./images/homepage-pic.png)
 
 ## Link
-[Walkthrough-Video]()
+[Note-Taker](https://mysterious-dawn-90083.herokuapp.com/)
